@@ -107,7 +107,7 @@ Have negative correlation.
 
 
 
-## ConclusioN
+## Conclusion
 
 Based on the performance metrics I discussed above top 5 trading strategies I will chose are:
 
