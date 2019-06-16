@@ -111,7 +111,7 @@ Have negative correlation.
 
 Based on the performance metrics I discussed above top 5 trading strategies I will chose are:
 
-1 03\_12
+1. 03\_12
 2. 03\_04
 3. 01\_12
 4. 03\_11
