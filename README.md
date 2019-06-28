@@ -1,5 +1,4 @@
 # Analysis of Different Algo Strategies
-[Code link](https://github.com/supreeth8/high_freq_algo/blob/master/Analysis.ipynb)
 
 
 
